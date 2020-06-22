@@ -1,5 +1,3 @@
-SERBOI FLOREA-DAN 325CB
-
 Tema este compusa din:
 	- server.c reprezinta serverul care asigura legatura intre clientii din platforma, cu scopul publicarii si abonarii la mesaje
 	- subscriber.c reprezinta un client TCP se conectează la server, el poate primi (in orice moment) de la tastatură comenzi de tipul subscribe si unsubscribe si afisează pe ecran mesajele primite de la server
